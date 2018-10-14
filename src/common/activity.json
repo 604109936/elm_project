@@ -1,0 +1,47 @@
+{
+  "activityLinks": {
+    "top": [
+      {
+        "title": "限量抢购",
+        "content": "超值美味 9.9元起",
+        "info": "正在抢 >",
+        "imghash": "be10fa0ed514c093a7138b0b9a50d61fpng",
+        "class": "sales",
+        "url": "/sales/#from=h5",
+        "showAmount": true
+      }, {
+        "title": "热卖套餐",
+        "content": "销量最高，好评最多",
+        "info": "TOP 100 >",
+        "imghash": "dd416ff085900d62b8d60fa7e9c6b65dpng",
+        "bigImghash": "eeedf43e7e53f6e1346c3fda0609f1d3png",
+        "url": "/ranking/#banner=&restaurant_category_ids=None&type=hot_sale_combo&title=&from=h5"
+      }
+    ],
+    "bottom": [
+      {
+        "title": "天天特价",
+        "content": "低至1折",
+        "imghash": "506ddb537220b8c56d4ef6ae22718984png",
+        "url": "/ranking/#type=special_food&from=h5",
+        "class": "special"
+      },
+      {
+        "title": "乐享鲜果",
+        "content": "鲜果乐享7折",
+        "imghash": "a988010e87e876a7bf137597bf7fd324png",
+        "url": "/ranking/#page_type=lego&activity_id=10000937&type=dessert&navType=2&navColor=&animation_type=1&from=h5"
+      },
+      {
+        "title": "品质优选",
+        "content": "尖货来袭",
+        "imghash": "ab5dcb5bff74242e06b3c2efee1cbffcpng",
+        "url": "/bestquality/#from=h5"
+      }
+    ]
+  },
+  "newUserLink": {
+    "hash": "31205997b77c8cb8adf82298b8a39434png",
+    "url": "/brownabe/#/list?from=h5"
+  }
+}
