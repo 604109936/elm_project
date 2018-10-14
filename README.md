@@ -1,2 +1,3 @@
 # elm_project
-一个餐饮购物的webApp
+一个餐饮点餐的webApp
+
